@@ -6,9 +6,9 @@ color:
   saturation: 0.7290572519414127
   rhythmicContrast: 0.03804764850065112
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Tschüssy
